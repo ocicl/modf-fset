@@ -1,0 +1,10 @@
+* modf-fset
+
+FSet extensions to Modf
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/smithzvk/modf-fset.git   |
+| commit  | ab55d0d  |
+| systems | modf-fset |
+|---------+-------------------------------------------|
+
